@@ -1,3 +1,5 @@
+NOT MINE
+
 This CANNOT do damage! Others WILL NOT see the particle effects!
 
 You will need one of the UGC greatswords.
